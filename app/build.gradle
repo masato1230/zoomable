@@ -64,5 +64,6 @@ dependencies {
     debugImplementation 'androidx.compose.ui:ui-tooling'
     debugImplementation 'androidx.compose.ui:ui-test-manifest'
 
-    implementation project(':zoomable')
+//    implementation project(':zoomable')
+    implementation 'com.github.masato1230:zoomable:0.0.2'
 }
